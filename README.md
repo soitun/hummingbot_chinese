@@ -65,7 +65,7 @@
 ## 问答
 - [常见问题解答](FAQ.md) 
 ## 社区
-- Discord：https://discord.hummingbot.io
+- [Discord](https://discord.gg/TPd7YXzw6D)
 - 微信群: 添加ID：amtf202004邀请入群
 - QQ群: 714030802
 
