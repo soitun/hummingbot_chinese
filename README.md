@@ -1,7 +1,17 @@
 ![Hummingbot](/images/blacklogo.png)
-# hummingbot中文资源
+## 📌 Hummingbot 中文社区资源
+🔗 **社交平台**
+- 🏮 [知乎](https://www.zhihu.com/people/dao-mu-70-83)
+- 📺 [Bilibili](https://space.bilibili.com/13166598)
+- 🎥 [YouTube](https://www.youtube.com/@ttggs)
 
-*请注意：hummingbot是一款实验性软件，您需要自行承担使用风险。请检查Apache 2.0许可。本repo内所有文件及内容均非金融投资理财建议。*
+💬 **加入 Hummingbot 中文社区**
+📩 **社区管理员微信 (WeChat)：**
+
+- @amtf202004
+
+🔗 **Discord 交流群**
+- [加入 Discord](https://discord.com/invite/TPd7YXzw6D)
 
 # 目录
 - [介绍](#介绍)
