@@ -1,18 +1,17 @@
 ![Hummingbot](/images/blacklogo.png)
-# hummingbot中文资源
-🔗 社交平台
-🏮 知乎
-📺 Bilibili
-🎥 YouTube
-💬 加入 Hummingbot 中文社区
-如需加入 HummingBot 中文社区，请联系 社区管理员：
+## 📌 Hummingbot 中文社区资源
+🔗 **社交平台**
+- 🏮 [知乎](https://www.zhihu.com/people/dao-mu-70-83)
+- 📺 [Bilibili](https://space.bilibili.com/13166598)
+- 🎥 [YouTube](https://www.youtube.com/@ttggs)
 
-📩 微信 (WeChat)：
+💬 **加入 Hummingbot 中文社区**
+📩 **社区管理员微信 (WeChat)：**
 
-V：amtf202004
-V：bitsmiley
-🚀 欢迎一起交流量化交易、Hummingbot 策略开发！
-*请注意：hummingbot是一款实验性软件，您需要自行承担使用风险。请检查Apache 2.0许可。本repo内所有文件及内容均非金融投资理财建议。*
+- @amtf202004
+
+🔗 **Discord 交流群**
+- [加入 Discord](https://discord.com/invite/TPd7YXzw6D)
 
 # 目录
 - [介绍](#介绍)
