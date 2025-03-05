@@ -7,11 +7,13 @@
 
 💬 **加入 Hummingbot 中文社区**
 📩 **社区管理员微信 (WeChat)：**
-
 - @amtf202004
 
 🔗 **Discord 交流群**
 - [加入 Discord](https://discord.com/invite/TPd7YXzw6D)
+
+🔗 **QQ群**
+- 714030802
 
 # 目录
 - [介绍](#介绍)
@@ -74,10 +76,6 @@
 
 ## 问答
 - [常见问题解答](FAQ.md) 
-## 社区
-- [Discord](https://discord.gg/TPd7YXzw6D)
-- 微信群: 添加ID：amtf202004邀请入群
-- QQ群: 714030802
 
 ## 致谢
 感谢以下社区内容贡献者：
